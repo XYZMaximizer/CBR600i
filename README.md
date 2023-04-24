@@ -1,2 +1,2 @@
 # CBR600i
-CBR600i Klipper config
+CBR600i 3D printer Klipper config
